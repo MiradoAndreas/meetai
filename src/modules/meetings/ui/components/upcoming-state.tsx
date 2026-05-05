@@ -1,14 +1,14 @@
 import Link from "next/link"
 import { BanIcon, VideoIcon } from "lucide-react"
-
 import { Button } from "@/components/ui/button"
 import { EmptyState } from "@/components/empty-state"
 
 interface Props {
-  meetingId: string;
-  onCancelMeeting: () => void;
+  meetingId: string
+  onCancelMeeting: () => void
   isCancelling: boolean
 }
+
 
 export const UpcomingState = ({
   meetingId,

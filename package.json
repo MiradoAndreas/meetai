@@ -17,6 +17,8 @@
     "@dicebear/core": "^9.4.2",
     "@hookform/resolvers": "^5.2.2",
     "@neondatabase/serverless": "^1.1.0",
+    "@stream-io/node-sdk": "^0.7.56",
+    "@stream-io/video-react-sdk": "^1.36.0",
     "@tanstack/query-core": "https://pkg.pr.new/@tanstack/query-core@1568117",
     "@tanstack/react-query": "^5.100.6",
     "@tanstack/react-table": "^8.21.3",
